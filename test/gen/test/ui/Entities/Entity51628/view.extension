@@ -1,0 +1,5 @@
+{
+    "module": "test/gen/test/ui/Entities/Entity51628/view.js",
+    "extensionPoint": "application-views",
+    "description": "test - Application View"
+}

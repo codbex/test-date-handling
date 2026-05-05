@@ -1,0 +1,37 @@
+{
+    "schema": {
+        "structures": [
+            {
+                "name": "CODBEX_ENTITY51628",
+                "type": "TABLE",
+                "columns": [
+                    {
+                        "type": "INTEGER",
+                        "primaryKey": true,
+                        "identity": true,
+                        "nullable": true,
+                        "name": "ENTITY51628_ID"
+                    },
+                    {
+                        "type": "DATE",
+                        "nullable": true,
+                        "name": "ENTITY51628_DUE"
+                    },
+                    {
+                        "type": "VARCHAR",
+                        "length": 20,
+                        "nullable": true,
+                        "name": "ENTITY51628_PROPERTY3"
+                    },
+                    {
+                        "type": "VARCHAR",
+                        "length": 20,
+                        "nullable": true,
+                        "name": "ENTITY51628_PROPERTY4"
+                    }
+                ]
+            }
+        ]
+    },
+    "datasource": "DefaultDB"
+}

@@ -1,0 +1,5 @@
+{
+    "module": "test/gen/test/ui/Entities/Entity51628/dialog-window/view.js",
+    "extensionPoint": "application-windows",
+    "description": "test - Application Dialog Window"
+}

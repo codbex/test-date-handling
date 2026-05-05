@@ -1,0 +1,5 @@
+{
+    "extensionPoint": "dashboard-widgets",
+    "module": "test/test-services/config.js",
+    "description": "Test Widget"
+}

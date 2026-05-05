@@ -1,0 +1,92 @@
+{
+    "model": {
+        "entities": [
+            {
+                "properties": [
+                    {
+                        "auditType": "NONE",
+                        "dataAutoIncrement": "true",
+                        "dataName": "ENTITY51628_ID",
+                        "dataNullable": "true",
+                        "dataPrimaryKey": "true",
+                        "dataType": "INTEGER",
+                        "description": "",
+                        "name": "Id",
+                        "tooltip": "",
+                        "widgetIsMajor": "true",
+                        "widgetLength": "20",
+                        "widgetSize": "",
+                        "widgetType": "TEXTBOX"
+                    },
+                    {
+                        "auditType": "NONE",
+                        "dataName": "ENTITY51628_DUE",
+                        "dataNullable": "true",
+                        "dataType": "DATE",
+                        "description": "",
+                        "name": "Due",
+                        "tooltip": "",
+                        "widgetIsMajor": "true",
+                        "widgetLength": "20",
+                        "widgetSize": "",
+                        "widgetType": "DATE"
+                    },
+                    {
+                        "auditType": "NONE",
+                        "dataLength": "20",
+                        "dataName": "ENTITY51628_PROPERTY3",
+                        "dataNullable": "true",
+                        "dataType": "VARCHAR",
+                        "description": "",
+                        "name": "Property3",
+                        "tooltip": "",
+                        "widgetIsMajor": "true",
+                        "widgetLength": "20",
+                        "widgetSize": "",
+                        "widgetType": "TEXTBOX"
+                    },
+                    {
+                        "auditType": "NONE",
+                        "dataLength": "20",
+                        "dataName": "ENTITY51628_PROPERTY4",
+                        "dataNullable": "true",
+                        "dataType": "VARCHAR",
+                        "description": "",
+                        "name": "Property4",
+                        "tooltip": "",
+                        "widgetIsMajor": "true",
+                        "widgetLength": "20",
+                        "widgetSize": "",
+                        "widgetType": "TEXTBOX"
+                    }
+                ],
+                "caption": "Manage entity Entity51628",
+                "dataCount": "SELECT COUNT(*) AS COUNT FROM \"${tablePrefix}ENTITY51628\"",
+                "dataName": "ENTITY51628",
+                "dataQuery": "",
+                "description": "Manage entity Entity51628",
+                "generateDefaultRoles": "false",
+                "generateReport": "false",
+                "icon": "/services/web/resources/unicons/file.svg",
+                "layoutType": "MANAGE",
+                "menuIndex": "100",
+                "menuKey": "entity51628",
+                "menuLabel": "Entity51628",
+                "multilingual": "false",
+                "name": "Entity51628",
+                "perspectiveHeader": "",
+                "perspectiveIcon": "/services/web/resources/unicons/copy.svg",
+                "perspectiveLabel": "Entities",
+                "perspectiveName": "Entities",
+                "perspectiveNavId": "",
+                "perspectiveOrder": "100",
+                "perspectiveRole": "",
+                "title": "Entity51628",
+                "tooltip": "Entity51628",
+                "type": "PRIMARY"
+            }
+        ],
+        "perspectives": [],
+        "navigations": []
+    }
+}

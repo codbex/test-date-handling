@@ -1,0 +1,5 @@
+{
+    "module": "test/gen/test/ui/Entities/perspective.js",
+    "extensionPoint": "application-perspectives",
+    "description": "test - Perspective - Entities"
+}
